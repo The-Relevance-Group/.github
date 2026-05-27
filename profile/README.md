@@ -1,6 +1,11 @@
 # The-Relevance Group
 
 Go to [therelevance.group](https://therelevance.group/) for more information.
+
+## Key resource: Sharing
+
+To mirror your own repositories easily into this GitHub organization. You can use the [mirror github action](https://github.com/The-Relevance-Group/techonomy-github-actions/tree/main/git/mirror-push) that we've build. 
+
 <!--
 
 **Here are some ideas to get you started:**
